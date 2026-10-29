@@ -1,9 +1,5 @@
 # ADAGDS — Adaptive Distributed Application Generation & Deployment System
 
-> COMSATS University Islamabad, Lahore Campus — Parallel & Distributed Computing
-> (CSC 334) Final Lab Exam, Spring 2026. CLO-5: *Develop an application using
-> concepts of distributed and parallel computing.*
-
 ADAGDS analyses real-time machine resources, **adaptively decides how many
 applications (1–20) to generate**, distributes the build jobs across a
 master/worker cluster, generates each application as a **fully independent
@@ -146,4 +142,4 @@ output/                    generated independent applications (created at runtim
 logs/                      run logs + persisted queue state (created at runtime)
 ```
 
-Author: rafay9696@gmail.com
+Author: affanrajput873@gmail.com
